@@ -25,19 +25,19 @@
 	},
 	"Finnbjörn ÍS-37": {
 		"slug": "finnbjorn-is-2",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/finnbjorn.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5e3745657aa7cf6ebeab8554_finnbjorn.jpg",
 		"captains": "Captain: Björn Elías Halldórsson (Elli Bjössi)",
 		"medium_text": "Finnbjörn ÍS-37 is a seine fishing boat from Bolungarvík, Iceland. The crew consists of three fishermen at a time. Each tour for Finnbjörn normally takes around 12-18 hours and will never last for more than 24 hours. "
 	},
 	"Ásdís ÍS-2": {
 		"slug": "asdis-is-2",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/asdis.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5e3745651212673112c582d2_asdis.jpg",
 		"captains": "Captain: Einar Guðmundsson",
 		"medium_text": "Ásdís ÍS-2 is a seine fishing boat from Bolungarvík, Iceland. The crew consists of four fishermen at a time. Each tour for Ásdís normally takes around 12-18 hours and will never last for more than 24 hours. "
 	},
 	"Einar Hálfdáns ÍS-11": {
 		"slug": "einar-halfdans",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/einar.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5ccb8c6026ade13e4df53372_Einar.jpg",
 		"captains": "Captain: Pétur Jónsson",
 		"medium_text": "Einar Hálfdáns ÍS-11 is a longline fishing boat from Bolungarvík, Iceland. The crew, two fishermen at a time, go fishing every morning and land their catch the same day. In recent years, Einar Hálfdáns has been one of the top-catching boat (smaller than 15 gross tonnages) in Iceland."
 	}
