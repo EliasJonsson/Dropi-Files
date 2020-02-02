@@ -1,25 +1,25 @@
 {
 	"Jónína Brynja ÍS-55": {
 		"slug": "jonina-brynja-is",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/jonina.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5d8b5deaaf3a4f48a8d1dfae_JoninaBrynja.jpg",
 		"captains": "Captain: Jóhann Kristjánsson and Sigurður Hálfdánsson",
 		"medium_text": "Jónína Brynja ÍS-55 is a longline fishing boat from Bolungarvík, Iceland. The crew consists of three fishermen at a time. Fríða, like the other longline fishing boat in Bolungarvík, never go on a longer fishing trips than 24 hours."
 	},
 	"Fríða Dagmar ÍS-103": {
 		"slug": "frida-dagmar",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/frida.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5d8b5e70ce625b80f4d8aa0f_FridaDagmar.jpg",
 		"captains": "Captains: Albert Jónsson and Haraldur Björnsson",
 		"medium_text": "Fríða Dagamar ÍS-103 is a longline fishing boat from Bolungarvík, Iceland. The crew consists of four fishermen at a time. Fríða was the top-catching boat (smaller than 30 gross tonnages) in Iceland in 2013."
 	},
 	"Guðmundur Einarsson ÍS-255": {
 		"slug": "gudmundur-einarsson-is-255",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/gudmundureinarsson.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5d8b5deb0d9991967cd2c03f_GudmundurEinarsson.jpg",
 		"captains": "Captain: Benedikt Jóhansson and Krystof Mazur",
 		"medium_text": "Guðmundur Einarsson ÍS-255 is a longline fishing boat from Bolungarvík, Iceland. The crew consists of two fishermen at a time, where each fishing trip never lasts more than 24 hours."
 	},
 	"Þorlákur ÍS-15": {
 		"slug": "thorlakur-is-15",
-		"image_src": "https://github.com/EliasJonsson/Dropi-Files/blob/master/boat-images/thorlakur.jpg?raw=true",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5d8b5deb3d7d18042f0b3fc2_Thorlakur.jpg",
 		"captains": "Captain: Sigurgeir Steinar Þórarinsson",
 		"medium_text": "Þorlákur ÍS-15 is a seine fishing boat from Bolungarvík, Iceland. Most of the time Þorlákur has been used as a a longline fishing boat. The role of Þorlákur was changed few years ago to a seine fishing boat. Each tour for Þorlákur normally takes around 12-18 hours and will never last for more than 24 hours."
 	},
