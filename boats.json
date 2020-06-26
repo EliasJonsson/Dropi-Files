@@ -40,5 +40,11 @@
 		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5ccb8c6026ade13e4df53372_Einar.jpg",
 		"captains": "Captain: Pétur Jónsson",
 		"medium_text": "Einar Hálfdáns ÍS-11 is a longline fishing boat from Bolungarvík, Iceland. The crew, two fishermen at a time, go fishing every morning and land their catch the same day. In recent years, Einar Hálfdáns has been one of the top-catching boat (smaller than 15 gross tonnages) in Iceland."
+	},
+	"Otur II ÍS-173": {
+		"slug": "Otur",
+		"image_src": "https://uploads-ssl.webflow.com/5ca15c1bf4c36e2a52807477/5ccb8c6026ade13e4df53372_Einar.jpg",
+		"captains": "Captain: Birgir Loftur Bjarnason",
+		"medium_text": "Otur II ÍS-173 is a longline fishing boat from Bolungarvík, Iceland. The crew, two fishermen at a time, go fishing every morning and land their catch the same day."
 	}
 }
